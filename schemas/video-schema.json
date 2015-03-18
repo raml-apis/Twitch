@@ -50,7 +50,7 @@
       "required" : false
     } ,
     "game" : {
-      "type" : "object" ,
+      "type" : "string" ,
       "required" : false
     } ,
     "preview" : {

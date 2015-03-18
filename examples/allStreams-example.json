@@ -1,50 +1,62 @@
 {
-  "streams" : [
-    {
-      "broadcaster" : "fme" ,
-      "_id" : 5019229776 ,
-      "preview" : "http://static-cdn.jtvnw.net/previews-ttv/live_user_zisss-320x200.jpg" ,
-      "game" : "Diablo III" ,
-      "channel" : {
-        "mature" : null ,
-        "background" : "http://static-cdn.jtvnw.net/jtv_user_pictures/zisss-channel_background_image-06a9d8c1113e5b45.jpeg" ,
-        "updated_at" : "2013-03-04T05:27:27Z" ,
-        "_id" : 31795858 ,
-        "status" : "Barb sets giveaway and making 500m DH set... Join Zisspire, earn Zeny, collect prizes!" ,
-        "logo" : "http://static-cdn.jtvnw.net/jtv_user_pictures/zisss-profile_image-502d7c865c5e3a54-300x300.jpeg" ,
-        "teams" : [
-        ] ,
-        "url" : "http://www.twitch.tv/zisss" ,
-        "display_name" : "Zisss" ,
-        "game" : "Diablo III" ,
-        "banner" : "http://static-cdn.jtvnw.net/jtv_user_pictures/zisss-channel_header_image-997348d7f0658115-640x125.jpeg" ,
-        "name" : "zisss" ,
-        "video_banner" : null ,
-        "_links" : {
-          "chat" : "https://api.twitch.tv/kraken/chat/zisss" ,
-          "subscriptions" : "https://api.twitch.tv/kraken/channels/zisss/subscriptions" ,
-          "features" : "https://api.twitch.tv/kraken/channels/zisss/features" ,
-          "commercial" : "https://api.twitch.tv/kraken/channels/zisss/commercial" ,
-          "stream_key" : "https://api.twitch.tv/kraken/channels/zisss/stream_key" ,
-          "editors" : "https://api.twitch.tv/kraken/channels/zisss/editors" ,
-          "videos" : "https://api.twitch.tv/kraken/channels/zisss/videos" ,
-          "self" : "https://api.twitch.tv/kraken/channels/zisss" ,
-          "follows" : "https://api.twitch.tv/kraken/channels/zisss/follows"
-        } ,
-        "created_at" : "2012-07-01T21:09:58Z"
-      } ,
-      "name" : "live_user_zisss" ,
-      "viewers" : 775 ,
-      "_links" : {
-        "self" : "https://api.twitch.tv/kraken/streams/zisss"
-      }
+  "streams": [  {
+    "_id": 13524132512,
+    "game": "Music",
+    "viewers": 1760,
+    "created_at": "2015-03-10T19:55:58Z",
+    "video_height": 1080,
+    "average_fps": 29.9997051462,
+    "_links": {
+      "self": "https://api.twitch.tv/kraken/streams/monstercat"
+    },
+    "preview": {
+      "small": "http://static-cdn.jtvnw.net/previews-ttv/live_user_monstercat-80x45.jpg",
+      "medium": "http://static-cdn.jtvnw.net/previews-ttv/live_user_monstercat-320x180.jpg",
+      "large": "http://static-cdn.jtvnw.net/previews-ttv/live_user_monstercat-640x360.jpg",
+      "template": "http://static-cdn.jtvnw.net/previews-ttv/live_user_monstercat-{width}x{height}.jpg"
+    },
+    "channel": {
+      "_links": {
+        "self": "https://api.twitch.tv/kraken/channels/monstercat",
+        "follows": "https://api.twitch.tv/kraken/channels/monstercat/follows",
+        "commercial": "https://api.twitch.tv/kraken/channels/monstercat/commercial",
+        "stream_key": "https://api.twitch.tv/kraken/channels/monstercat/stream_key",
+        "chat": "https://api.twitch.tv/kraken/chat/monstercat",
+        "features": "https://api.twitch.tv/kraken/channels/monstercat/features",
+        "subscriptions": "https://api.twitch.tv/kraken/channels/monstercat/subscriptions",
+        "editors": "https://api.twitch.tv/kraken/channels/monstercat/editors",
+        "videos": "https://api.twitch.tv/kraken/channels/monstercat/videos",
+        "teams": "https://api.twitch.tv/kraken/channels/monstercat/teams"
+      },
+      "background": null,
+      "banner": null,
+      "broadcaster_language": "en",
+      "display_name": "Monstercat",
+      "game": "Music",
+      "logo": "http://static-cdn.jtvnw.net/jtv_user_pictures/monstercat-profile_image-72a449ee382a5425-300x300.png",
+      "mature": false,
+      "status": "Monstercat FM - 24/7 Music Stream: live.monstercat.com",
+      "partner": true,
+      "url": "http://www.twitch.tv/monstercat",
+      "video_banner": "http://static-cdn.jtvnw.net/jtv_user_pictures/monstercat-channel_offline_image-f3658d8035fe3670-640x360.jpeg",
+      "_id": 27446517,
+      "name": "monstercat",
+      "created_at": "2012-01-15T03:18:08Z",
+      "updated_at": "2015-03-17T13:16:51Z",
+      "delay": 0,
+      "followers": 265990,
+      "profile_banner": "http://static-cdn.jtvnw.net/jtv_user_pictures/monstercat-profile_banner-c8629c89ee4f276a-480.jpeg",
+      "profile_banner_background_color": "#303030",
+      "views": 3711072,
+      "language": "en"
     }
-  ] ,
-  "_links" : {
-    "summary" : "https://api.twitch.tv/kraken/streams/summary" ,
-    "followed" : "https://api.twitch.tv/kraken/streams/followed" ,
-    "next" : "https://api.twitch.tv/kraken/streams?channel=zisss%2Cvoyboy&game=Diablo+III&limit=100&offset=100" ,
-    "featured" : "https://api.twitch.tv/kraken/streams/featured" ,
-    "self" : "https://api.twitch.tv/kraken/streams?channel=zisss%2Cvoyboy&game=Diablo+III&limit=100&offset=0"
+  }],
+  "_total": 1,
+  "_links": {
+    "self": "https://api.twitch.tv/kraken/streams?limit=25&offset=0",
+    "next": "https://api.twitch.tv/kraken/streams?limit=25&offset=25",
+    "featured": "https://api.twitch.tv/kraken/streams/featured",
+    "summary": "https://api.twitch.tv/kraken/streams/summary",
+    "followed": "https://api.twitch.tv/kraken/streams/followed"
   }
 }

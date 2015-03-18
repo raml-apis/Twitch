@@ -354,7 +354,7 @@ userResponse = client.channels.channelId(USER_NAME).subscriptions.userId(USER_NA
 
 ```javascript
 
-assert( userResponse.status == 200 ||  userIdResponse.status == 404 || userIdResponse.status == 422)
+assert( userResponse.status == 200 ||  userResponse.status == 404 || userResponse.status == 422)
 
 ```
 

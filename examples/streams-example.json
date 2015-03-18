@@ -1,9 +1,59 @@
 {
-  "_links" : {
-    "self" : "https://api.twitch.tv/kraken/streams/followed?limit=25&offset=0" ,
-    "next" : "https://api.twitch.tv/kraken/streams/followed?limit=25&offset=25"
-  } ,
-  "streams" : [
-    "..."
-  ]
+  "streams": [{
+    "_id": 13613661232,
+    "game": "Battlefield Hardline",
+    "viewers": 42,
+    "created_at": "2015-03-17T10:34:38Z",
+    "video_height": 720,
+    "average_fps": 29.8532022068,
+    "_links": {
+      "self": "https://api.twitch.tv/kraken/streams/devilhs"
+    },
+    "preview": {
+      "small": "http://static-cdn.jtvnw.net/previews-ttv/live_user_devilhs-80x45.jpg",
+      "medium": "http://static-cdn.jtvnw.net/previews-ttv/live_user_devilhs-320x180.jpg",
+      "large": "http://static-cdn.jtvnw.net/previews-ttv/live_user_devilhs-640x360.jpg",
+      "template": "http://static-cdn.jtvnw.net/previews-ttv/live_user_devilhs-{width}x{height}.jpg"
+    },
+    "channel": {
+      "_links": {
+        "self": "http://api.twitch.tv/kraken/channels/devilhs",
+        "follows": "http://api.twitch.tv/kraken/channels/devilhs/follows",
+        "commercial": "http://api.twitch.tv/kraken/channels/devilhs/commercial",
+        "stream_key": "http://api.twitch.tv/kraken/channels/devilhs/stream_key",
+        "chat": "http://api.twitch.tv/kraken/chat/devilhs",
+        "features": "http://api.twitch.tv/kraken/channels/devilhs/features",
+        "subscriptions": "http://api.twitch.tv/kraken/channels/devilhs/subscriptions",
+        "editors": "http://api.twitch.tv/kraken/channels/devilhs/editors",
+        "videos": "http://api.twitch.tv/kraken/channels/devilhs/videos",
+        "teams": "http://api.twitch.tv/kraken/channels/devilhs/teams"
+      },
+      "background": null,
+      "banner": null,
+      "broadcaster_language": "ru",
+      "display_name": "Devilhs",
+      "game": "Battlefield Hardline",
+      "logo": "http://static-cdn.jtvnw.net/jtv_user_pictures/devilhs-profile_image-ce818dbbab5d5f0f-300x300.jpeg",
+      "mature": false,
+      "status": "\u0413\u0440\u0430\u0431\u0438\u043c",
+      "partner": false,
+      "url": "http://www.twitch.tv/devilhs",
+      "video_banner": "http://static-cdn.jtvnw.net/jtv_user_pictures/devilhs-channel_offline_image-436c6736e91d381d-640x360.jpeg",
+      "_id": 22814784,
+      "name": "devilhs",
+      "created_at": "2011-06-06T15:46:36Z",
+      "updated_at": "2015-03-17T14:16:29Z",
+      "delay": 0,
+      "followers": 736,
+      "profile_banner": null,
+      "profile_banner_background_color": null,
+      "views": 19179,
+      "language": "ru"
+    }
+  }],
+  "_total": 1,
+  "_links": {
+    "self": "https://api.twitch.tv/kraken/streams/followed?limit=25&offset=0",
+    "next": "https://api.twitch.tv/kraken/streams/followed?limit=25&offset=25"
+  }
 }

@@ -22,7 +22,7 @@
           "required": false
         },
         "game": {
-          "type": "object",
+          "type": "string",
           "required": false
         },
         "created_at": {
@@ -37,7 +37,7 @@
           }
         },
         "background": {
-          "type": "object",
+          "type": "string",
           "required": false
         },
         "updated_at": {
@@ -45,7 +45,7 @@
           "required": false
         },
         "banner": {
-          "type": "object",
+          "type": "string",
           "required": false
         },
         "logo": {
@@ -95,7 +95,7 @@
           "required": false
         },
         "video_banner": {
-          "type": "object",
+          "type": "string",
           "required": false
         },
         "display_name": {

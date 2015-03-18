@@ -61,7 +61,7 @@
               "required" : false
             } ,
             "description" : {
-              "type" : "object" ,
+              "type" : "string" ,
               "required" : false
             }
           }
