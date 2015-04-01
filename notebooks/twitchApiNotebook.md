@@ -34,7 +34,7 @@ CLIENT_SECRET = prompt("Please, enter clientSecret of your Twitch application.")
 
 // Read about the Twitch RAML API at https://anypoint.mulesoft.com/apiplatform/popular/admin/#/dashboard/apis/8021/versions/8188/contracts
 
-API.createClient('client', '/apiplatform/repository/public/organizations/30/apis/8021/versions/8188/definition');
+API.createClient('client', '#REF_TAG_DEFENITION');
 
 ```
 
